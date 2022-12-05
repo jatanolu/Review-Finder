@@ -12,3 +12,6 @@ More?
 
 # List creation
 Tied to a user account. Possibly with the idea of having the lists be viewable by other users.
+
+# Create a review --stretch
+Have the user be able to write a review and post to Yelp and Google. 
