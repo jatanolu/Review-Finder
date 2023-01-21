@@ -1,3 +1,6 @@
+# About
+First full stack application using Postgresql, Django and React. Made over the course of ~2 weeks.
+
 # Review-Finder
 Look up a business* and see reviews.
 Enter in a search term and criteria based on predetermined tags. Get a list of businesses and upon selection get a list of reviews.
@@ -11,9 +14,8 @@ Have a list show up on a map to see how you might have to navigate your places o
 # APIs
 Yelp api
 :-  
-Google reviews api
-Google maps
-More?
+Google maps(mapbox instead)
+apiLayer(ip to location)
 
 # List creation
 Tied to a user account. Possibly with the idea of having the lists be viewable by other users.  
@@ -22,3 +24,6 @@ Tied to a user account. Possibly with the idea of having the lists be viewable b
 Have the user be able to write a review and post to Yelp and Google.  
 I do want to add something else like "here are directions to place" or "weather is good/bad"  
 I think the core of the idea is getting reviews and creating lists for now though. 
+
+#Current status
+As of this commit the user authentification and business searching is functional. The user list creatiion and viewing is incomplete.
